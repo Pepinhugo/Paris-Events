@@ -1,0 +1,13 @@
+/*CSS de la page de recherche des événements*/
+
+label{
+    color: white;
+    padding: 10px;
+}
+
+button{
+    margin: 10px;
+    background-color: #61dafb;
+    color: #282c34;
+    border-radius: 10px;
+}
