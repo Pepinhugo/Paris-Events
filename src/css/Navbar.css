@@ -1,0 +1,21 @@
+/*CSS du component Navbar (barre de menu)*/
+
+nav{
+    background-color: #282c34;
+    height: 50px;
+    box-shadow: 5px 2px 2px #61dafb;
+    border-radius: 5px;
+}
+
+.links{
+    margin: 30px;
+    padding: 10px ;
+    color: #61dafb;
+    text-decoration: none;
+}
+
+.links:hover{
+    color: white;
+    box-shadow:  0px 2px 0px #61dafb;
+}
+
